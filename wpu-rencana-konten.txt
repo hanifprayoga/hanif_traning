@@ -4,8 +4,9 @@ Rencana Konten
   => framework, ES6
       => belejar mengenai view, framework nya laravel
       => belajar vue
-2. VLog
+
 3. HTML
+  =>Laravel
 4.CSS
 5. tambahan untuk konten data structure
 6. menambahkan materi python
