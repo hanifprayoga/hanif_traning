@@ -1,0 +1,6 @@
+Rencana Konten
+
+1. JS
+2. VLog
+3. HTML
+4.CSS
