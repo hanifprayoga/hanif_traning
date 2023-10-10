@@ -10,3 +10,6 @@ Rencana Konten
 4.CSS
 5. tambahan untuk konten data structure
 6. menambahkan materi python
+
+angular
+menambahkan kata untuk berlatih fork
