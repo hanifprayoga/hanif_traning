@@ -5,3 +5,4 @@ Rencana Konten
 2. VLog
 3. HTML
 4.CSS
+5. tambahan untuk konten data structure
