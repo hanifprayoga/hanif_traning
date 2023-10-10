@@ -2,8 +2,11 @@ Rencana Konten
 
 1. JS
   => framework, ES6
-    =>angular,react
+      => belejar mengenai view, framework nya laravel
+      => belajar vue
+
 3. HTML
   =>Laravel
 4.CSS
 5. tambahan untuk konten data structure
+6. menambahkan materi python
