@@ -3,6 +3,7 @@ Rencana Konten
 1. JS
   => framework, ES6
       => belejar mengenai view, framework nya laravel
+      => belajar vue
 2. VLog
 3. HTML
 4.CSS
